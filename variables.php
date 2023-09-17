@@ -1,0 +1,6 @@
+<?php
+// DEBE EMPEZAR CON UNA LETRA O UN GUION BAJO. NO PUEDE SER UN NÚMERO AL COMIENZO
+
+$nombre='Lucas';
+
+echo $nombre;
